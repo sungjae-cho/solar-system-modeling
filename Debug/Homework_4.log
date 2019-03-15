@@ -1,0 +1,20 @@
+﻿Build started 12/16/2015 10:45:02 PM.
+     1>Project "D:\Dropbox\_대학교 자료\2015-4-2\CS_컴퓨터그래픽스 Computer Graphics\Homeworks\Homework #4\Project\Homework_4\Homework_4.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt AstronomicalObject.cpp main.cpp
+         main.cpp
+     1>d:\dropbox\_대학교 자료\2015-4-2\cs_컴퓨터그래픽스 computer graphics\homeworks\homework #4\project\homework_4\main.cpp(258): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+     1>d:\dropbox\_대학교 자료\2015-4-2\cs_컴퓨터그래픽스 computer graphics\homeworks\homework #4\project\homework_4\main.cpp(259): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+     1>d:\dropbox\_대학교 자료\2015-4-2\cs_컴퓨터그래픽스 computer graphics\homeworks\homework #4\project\homework_4\main.cpp(260): warning C4838: conversion from 'double' to 'GLfloat' requires a narrowing conversion
+         AstronomicalObject.cpp
+         Generating Code...
+     1>d:\dropbox\_대학교 자료\2015-4-2\cs_컴퓨터그래픽스 computer graphics\homeworks\homework #4\project\homework_4\main.cpp(143): warning C4715: 'getAstronomicalObject': not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Dropbox\_대학교 자료\2015-4-2\CS_컴퓨터그래픽스 Computer Graphics\Homeworks\Homework #4\Project\Homework_4\Debug\Homework_4.exe" /INCREMENTAL /NOLOGO LEGACY_STDIO_DEFINITIONS.LIB glaux.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"D:\Dropbox\_대학교 자료\2015-4-2\CS_컴퓨터그래픽스 Computer Graphics\Homeworks\Homework #4\Project\Homework_4\Debug\Homework_4.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Dropbox\_대학교 자료\2015-4-2\CS_컴퓨터그래픽스 Computer Graphics\Homeworks\Homework #4\Project\Homework_4\Debug\Homework_4.lib" /MACHINE:X86 Debug\AstronomicalObject.obj
+         Debug\main.obj
+         Homework_4.vcxproj -> D:\Dropbox\_대학교 자료\2015-4-2\CS_컴퓨터그래픽스 Computer Graphics\Homeworks\Homework #4\Project\Homework_4\Debug\Homework_4.exe
+     1>Done Building Project "D:\Dropbox\_대학교 자료\2015-4-2\CS_컴퓨터그래픽스 Computer Graphics\Homeworks\Homework #4\Project\Homework_4\Homework_4.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.54
